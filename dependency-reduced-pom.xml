@@ -38,7 +38,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>com.cs425.adsmgtsys.ADSMgmtSysMain</mainClass>
+                  <mainClass>com.cs425.presentation.AppointmentPresentation</mainClass>
                 </transformer>
               </transformers>
               <filters>
