@@ -47,3 +47,13 @@ com.cs425.adsmgtsys.ADSMgmtSysMain
 
 ```
 ```
+## Running with Docker
+
+### Build the Docker image
+
+```bash
+docker build -t adsmgtsys .
+docker run --rm adsmgtsys
+
+# docker repository
+https://hub.docker.com/repository/docker/budhilthijm/adsmgtsys/general
